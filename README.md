@@ -3,7 +3,7 @@
 I'm a professional software engineer based in Lincoln, NE.  I've been doing full stack web development since jQuery.  I like programming a lot, and dislike most software.  
 
 * 💻 *Current Stack*: React/Remix/Tailwind/Prisma
-* ⚙ *Languages Used Professionally*: Javascript (Typescript), Java, PHP, Python, Objective-C, Go
+* ⚙ *Main Professional Languages*: Javascript (Typescript), PHP, Python, Objective-C, Go
 * 👩‍💻 *Favorite Languages*: Rust, most Lisps, Python
 * 🏛 *Favorite Frameworks*: Django, Remix, NextJS
 
