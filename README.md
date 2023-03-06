@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a professional software engineer based in Lincoln, NE.  I've been doing full stack web development since jQuery.
+I'm a professional software engineer based in Lincoln, NE.  I've been doing full stack web development since sometime when jQuery was popular.
 
 * ❤️ *Current Stack*: React/Remix/Tailwind/Prisma
 * ⚙ *Main stuff I've used a lot at work*: Javascript (Typescript), Python, Go, Objective-C, PHP
